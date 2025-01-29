@@ -49,10 +49,10 @@ The dataset is sourced from **[Kaggle: Telco Customer Churn](https://www.kaggle.
 ## **📈 Model Performance**
 | Metric   | Score |
 |----------|------|
-| Accuracy | 85% |
-| Precision | 82% |
-| Recall   | 78% |
-| F1-Score | 80% |
+| Accuracy | 79% |
+| Precision | 65% |
+| Recall   | 45% |
+| F1-Score | 53% |
 
 ---
 
